@@ -4,13 +4,13 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Rahul190299/Todo-API
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Todo-API
 ```
 
 Install dependencies
