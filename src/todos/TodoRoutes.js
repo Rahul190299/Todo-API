@@ -31,7 +31,7 @@ router.use(todoController.authenticateJWT);
  *       description: Find more information about JWT tokens
  *       url: https://jwt.io/introduction/
  */
-router.get('/',todoController.getTodos);
+router.get('/',todoController.paginationAndSearch);
 
 // Example route for creating a ToDo item
 /**
